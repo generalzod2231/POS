@@ -1,1 +1,1 @@
-# Bean * Brew Self Service kiosk POS
+# Bean & Brew Self Service kiosk POS
